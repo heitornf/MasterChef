@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MasterChef.Entity;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -13,18 +14,28 @@ namespace MasterChef.Controllers
             return View();
         }
 
-        public ActionResult About()
+        public ActionResult IndexCadastroReceita(string prCadastroReceita)
         {
-            ViewBag.Message = "Your application description page.";
-
             return View();
         }
 
-        public ActionResult Contact()
+        public ActionResult IndexCadastroCategoria(string prCadastroCategoria)
         {
-            ViewBag.Message = "Your contact page.";
-
             return View();
+        }
+
+        public ActionResult IndexListarReceita(string prCadastroReceita)
+        {
+            List<Receita> ReceitaCollection = new List<Receita>();
+
+            return View(ReceitaCollection);
+        }
+
+        public ActionResult IndexListarCategoria(string prCadastroReceita)
+        {
+            List<Categoria> CategoriaCollection = new List<Categoria>();
+
+            return View(CategoriaCollection);
         }
     }
 }

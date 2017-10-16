@@ -1,0 +1,67 @@
+﻿<div class="jumbotron">
+    <h1>Master Chef</h1>
+</div>
+
+@model IEnumerable<MasterChef.Entity.Receita>
+
+@{
+    ViewBag.Title = "IndexListarReceita";
+}
+
+
+
+<p>
+    @Html.ActionLink("Inserir Receita", "IndexCadastroReceita")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TITULO)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DESCRICAO)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.INGREDIENTES)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MODODEPREPARO)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FOTO)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TAGS)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.TITULO)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DESCRICAO)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.INGREDIENTES)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MODODEPREPARO)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FOTO)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TAGS)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.RECEITAID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.RECEITAID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.RECEITAID })
+        </td>
+    </tr>
+}
+
+</table>

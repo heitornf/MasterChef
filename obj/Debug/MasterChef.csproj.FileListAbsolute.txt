@@ -1,78 +1,156 @@
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\ApplicationInsights.config
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\roslyn\csc.exe
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\roslyn\csc.exe.config
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\roslyn\csc.rsp
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\roslyn\csi.exe
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\roslyn\csi.rsp
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\roslyn\System.AppContext.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\roslyn\vbc.exe
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\roslyn\vbc.exe.config
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\roslyn\vbc.rsp
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\roslyn\VBCSCompiler.exe
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\MasterChef.dll.config
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\MasterChef.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\MasterChef.pdb
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\Antlr3.Runtime.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\EntityFramework.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\EntityFramework.SqlServer.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\Microsoft.AI.Agent.Intercept.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\Microsoft.AI.DependencyCollector.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\Microsoft.AI.Web.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\Microsoft.AI.WindowsServer.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\Microsoft.ApplicationInsights.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\Newtonsoft.Json.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\System.Web.Helpers.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\System.Web.Mvc.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\System.Web.Optimization.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\System.Web.Razor.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\System.Web.WebPages.Deployment.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\System.Web.WebPages.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\System.Web.WebPages.Razor.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\WebGrease.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\EntityFramework.xml
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\EntityFramework.SqlServer.xml
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\System.Web.Helpers.xml
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\System.Web.Mvc.xml
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\System.Web.Optimization.xml
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\System.Web.Razor.xml
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\System.Web.WebPages.xml
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\System.Web.WebPages.Deployment.xml
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\System.Web.WebPages.Razor.xml
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\Antlr3.Runtime.pdb
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\Newtonsoft.Json.xml
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\Microsoft.ApplicationInsights.xml
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\Microsoft.AI.DependencyCollector.xml
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\Microsoft.AI.ServerTelemetryChannel.xml
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\Microsoft.AI.WindowsServer.xml
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\Microsoft.AI.Web.xml
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\pt-br\System.Web.Helpers.resources.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\pt-br\System.Web.Mvc.resources.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\pt-br\System.Web.Optimization.resources.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\pt-br\System.Web.Razor.resources.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\pt-br\System.Web.WebPages.resources.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\bin\pt-br\System.Web.WebPages.Razor.resources.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\obj\Debug\MasterChef.csprojResolveAssemblyReference.cache
-C:\Users\Heito\Desktop\MasterChef\MasterChef\obj\Debug\MasterChef.dll
-C:\Users\Heito\Desktop\MasterChef\MasterChef\obj\Debug\MasterChef.pdb
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\ApplicationInsights.config
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\roslyn\csc.exe
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\roslyn\csc.exe.config
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\roslyn\csc.rsp
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\roslyn\csi.exe
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\roslyn\csi.rsp
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\roslyn\System.AppContext.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\roslyn\vbc.exe
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\roslyn\vbc.exe.config
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\roslyn\vbc.rsp
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\roslyn\VBCSCompiler.exe
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\MasterChef.dll.config
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\MasterChef.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\MasterChef.pdb
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\Antlr3.Runtime.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\EntityFramework.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\EntityFramework.SqlServer.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\Microsoft.AI.Web.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\Newtonsoft.Json.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\System.Web.Helpers.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\System.Web.Mvc.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\System.Web.Optimization.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\System.Web.Razor.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\System.Web.WebPages.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\System.Web.WebPages.Razor.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\WebGrease.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\EntityFramework.xml
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\EntityFramework.SqlServer.xml
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\System.Web.Helpers.xml
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\System.Web.Mvc.xml
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\System.Web.Optimization.xml
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\System.Web.Razor.xml
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\System.Web.WebPages.xml
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\System.Web.WebPages.Razor.xml
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\Antlr3.Runtime.pdb
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\Newtonsoft.Json.xml
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\Microsoft.AI.Web.xml
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\obj\Debug\MasterChef.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\obj\Debug\MasterChef.dll
+C:\Users\Leonardo Gandra\documents\visual studio 2017\Projects\MasterChef\MasterChef\obj\Debug\MasterChef.pdb
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\ApplicationInsights.config
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\roslyn\csc.exe
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\roslyn\csc.exe.config
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\roslyn\csc.rsp
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\roslyn\csi.exe
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\roslyn\csi.rsp
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\roslyn\System.AppContext.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\roslyn\vbc.exe
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\roslyn\vbc.exe.config
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\roslyn\vbc.rsp
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\roslyn\VBCSCompiler.exe
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\MasterChef.dll.config
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\MasterChef.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\MasterChef.pdb
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\Antlr3.Runtime.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\EntityFramework.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\EntityFramework.SqlServer.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\Microsoft.AI.Web.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\Newtonsoft.Json.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\System.Web.Helpers.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\System.Web.Mvc.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\System.Web.Optimization.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\System.Web.Razor.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\System.Web.WebPages.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\System.Web.WebPages.Razor.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\WebGrease.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\EntityFramework.xml
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\EntityFramework.SqlServer.xml
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\System.Web.Helpers.xml
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\System.Web.Mvc.xml
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\System.Web.Optimization.xml
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\System.Web.Razor.xml
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\System.Web.WebPages.xml
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\System.Web.WebPages.Razor.xml
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\Antlr3.Runtime.pdb
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\Newtonsoft.Json.xml
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\Microsoft.AI.Web.xml
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\obj\Debug\MasterChef.csprojResolveAssemblyReference.cache
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\obj\Debug\MasterChef.dll
+C:\Users\Heito\Desktop\MasterChef (1)\MasterChef\MasterChef\obj\Debug\MasterChef.pdb
